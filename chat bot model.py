@@ -1,4 +1,4 @@
-# This is the actual Chatbot. Still need to fix some bugging issues. When the user inputs a greeting the bot will sometimes give a goodbye response 
+# This is the actual Chatbot. Still need to fix some issues. When the user inputs a greeting the bot will sometimes give a goodbye response 
 
 
 import random 
